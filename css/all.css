@@ -99,6 +99,8 @@ label.form-label {
 
 }
 
+
+
 .h1_mobile_list{
   display: none;
 }
@@ -853,6 +855,7 @@ section.userr {
 #footer_index {
   height: 60px;
   width: 100%;
+  
 
 }
 
